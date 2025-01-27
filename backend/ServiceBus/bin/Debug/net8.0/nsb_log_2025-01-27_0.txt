@@ -1,0 +1,14 @@
+﻿2025-01-27 10:40:10.896 INFO  Logging to 'C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\ServiceBus\bin\Debug\net8.0\' with level Info
+2025-01-27 10:40:11.026 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-23'.
+2025-01-27 10:40:30.850 INFO  Logging to 'C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\ServiceBus\bin\Debug\net8.0\' with level Info
+2025-01-27 10:40:30.966 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-23'.
+2025-01-27 10:43:16.464 INFO  Logging to 'C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\ServiceBus\bin\Debug\net8.0\' with level Info
+2025-01-27 10:43:16.545 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-23'.
+2025-01-27 10:46:16.591 INFO  Logging to 'C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\ServiceBus\bin\Debug\net8.0\' with level Info
+2025-01-27 10:46:16.666 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-23'.
+2025-01-27 12:49:45.928 INFO  Logging to 'C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\ServiceBus\bin\Debug\net8.0\' with level Info
+2025-01-27 12:49:46.011 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-23'.
+2025-01-27 13:21:49.781 INFO  Logging to 'C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\ServiceBus\bin\Debug\net8.0\' with level Info
+2025-01-27 13:21:49.886 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-23'.
+2025-01-27 13:22:53.815 INFO  Logging to 'C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\ServiceBus\bin\Debug\net8.0\' with level Info
+2025-01-27 13:22:53.904 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-23'.

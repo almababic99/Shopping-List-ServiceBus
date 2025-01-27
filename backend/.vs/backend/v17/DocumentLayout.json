@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alma.babic\\Desktop\\Projects\\Shopping List using ServiceBus\\Shopping-List-ServiceBus\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B262822-8436-43D9-A566-AA3AF16B91B5}|backend\\API.csproj|c:\\users\\alma.babic\\desktop\\projects\\shopping list using servicebus\\shopping-list-servicebus\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B262822-8436-43D9-A566-AA3AF16B91B5}|backend\\API.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7C6B58-B9C5-4B28-B753-674378A22E3A}|ServiceBus\\ServiceBus.csproj|c:\\users\\alma.babic\\desktop\\projects\\shopping list using servicebus\\shopping-list-servicebus\\backend\\servicebus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7C6B58-B9C5-4B28-B753-674378A22E3A}|ServiceBus\\ServiceBus.csproj|solutionrelative:servicebus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532827A2-5C57-46DA-A0E6-5EA3B4B14F7D}|Application\\Application.csproj|c:\\users\\alma.babic\\desktop\\projects\\shopping list using servicebus\\shopping-list-servicebus\\backend\\application\\commands\\createshoppinglistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532827A2-5C57-46DA-A0E6-5EA3B4B14F7D}|Application\\Application.csproj|solutionrelative:application\\commands\\createshoppinglistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7C6B58-B9C5-4B28-B753-674378A22E3A}|ServiceBus\\ServiceBus.csproj|c:\\users\\alma.babic\\desktop\\projects\\shopping list using servicebus\\shopping-list-servicebus\\backend\\servicebus\\shoppinglistaddedhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7C6B58-B9C5-4B28-B753-674378A22E3A}|ServiceBus\\ServiceBus.csproj|solutionrelative:servicebus\\shoppinglistaddedhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532827A2-5C57-46DA-A0E6-5EA3B4B14F7D}|Application\\Application.csproj|c:\\users\\alma.babic\\desktop\\projects\\shopping list using servicebus\\shopping-list-servicebus\\backend\\application\\shoppinglistaddedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532827A2-5C57-46DA-A0E6-5EA3B4B14F7D}|Application\\Application.csproj|solutionrelative:application\\shoppinglistaddedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingListAddedHandler.cs",
+              "DocumentMoniker": "C:\\Users\\alma.babic\\Desktop\\Projects\\Shopping List using ServiceBus\\Shopping-List-ServiceBus\\backend\\ServiceBus\\ShoppingListAddedHandler.cs",
+              "RelativeDocumentMoniker": "ServiceBus\\ShoppingListAddedHandler.cs",
+              "ToolTip": "C:\\Users\\alma.babic\\Desktop\\Projects\\Shopping List using ServiceBus\\Shopping-List-ServiceBus\\backend\\ServiceBus\\ShoppingListAddedHandler.cs",
+              "RelativeToolTip": "ServiceBus\\ShoppingListAddedHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T09:38:23.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alma.babic\\Desktop\\Projects\\Shopping List using ServiceBus\\Shopping-List-ServiceBus\\backend\\ServiceBus\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceBus\\Program.cs",
+              "ToolTip": "C:\\Users\\alma.babic\\Desktop\\Projects\\Shopping List using ServiceBus\\Shopping-List-ServiceBus\\backend\\ServiceBus\\Program.cs",
+              "RelativeToolTip": "ServiceBus\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T09:36:45.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alma.babic\\Desktop\\Projects\\Shopping List using ServiceBus\\Shopping-List-ServiceBus\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\alma.babic\\Desktop\\Projects\\Shopping List using ServiceBus\\Shopping-List-ServiceBus\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T12:50:40.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingListAddedMessage.cs",
+              "DocumentMoniker": "C:\\Users\\alma.babic\\Desktop\\Projects\\Shopping List using ServiceBus\\Shopping-List-ServiceBus\\backend\\Application\\ShoppingListAddedMessage.cs",
+              "RelativeDocumentMoniker": "Application\\ShoppingListAddedMessage.cs",
+              "ToolTip": "C:\\Users\\alma.babic\\Desktop\\Projects\\Shopping List using ServiceBus\\Shopping-List-ServiceBus\\backend\\Application\\ShoppingListAddedMessage.cs",
+              "RelativeToolTip": "Application\\ShoppingListAddedMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T12:21:23.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateShoppingListCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\alma.babic\\Desktop\\Projects\\Shopping List using ServiceBus\\Shopping-List-ServiceBus\\backend\\Application\\Commands\\CreateShoppingListCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\CreateShoppingListCommandHandler.cs",
+              "ToolTip": "C:\\Users\\alma.babic\\Desktop\\Projects\\Shopping List using ServiceBus\\Shopping-List-ServiceBus\\backend\\Application\\Commands\\CreateShoppingListCommandHandler.cs",
+              "RelativeToolTip": "Application\\Commands\\CreateShoppingListCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:57:27.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

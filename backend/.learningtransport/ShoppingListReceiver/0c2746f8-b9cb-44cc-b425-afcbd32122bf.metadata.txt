@@ -1,0 +1,15 @@
+{
+  "NServiceBus.MessageId": "5bb11cce-d2f4-4583-9acc-b26f010178d4",
+  "NServiceBus.MessageIntent": "Send",
+  "NServiceBus.ConversationId": "ba40c2cf-8e91-47e3-8cf1-b26f010178d6",
+  "NServiceBus.CorrelationId": "5bb11cce-d2f4-4583-9acc-b26f010178d4",
+  "NServiceBus.ReplyToAddress": "backend",
+  "NServiceBus.OriginatingMachine": "MM1K4C7",
+  "NServiceBus.OriginatingEndpoint": "backend",
+  "$.diagnostics.originating.hostid": "b590c1147030b70f56f0d1074855605c",
+  "NServiceBus.ContentType": "application\/json",
+  "NServiceBus.EnclosedMessageTypes": "Application.ShoppingListAddedMessage, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.Version": "9.2.4",
+  "NServiceBus.TimeSent": "2025-01-24 15:37:25:622835 Z",
+  "traceparent": "00-1ad22e5d072414b7cfd84a73a85eff11-4d1bc74788796557-00"
+}

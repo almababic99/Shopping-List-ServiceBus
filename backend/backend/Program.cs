@@ -29,6 +29,8 @@ builder.Services.AddSingleton<IEndpointInstance>(sp =>
 
     var routing = endpointConfiguration.UseTransport<LearningTransport>().Routing();
     routing.RouteToEndpoint(typeof(ShoppingListAddedMessage), "ServiceBus");
+    routing.RouteToEndpoint(typeof(ItemAddedMessage), "ServiceBus");
+    routing.RouteToEndpoint(typeof(ShopperAddedMessage), "ServiceBus");
 
     return NServiceBus.Endpoint.Start(endpointConfiguration).GetAwaiter().GetResult(); 
 });

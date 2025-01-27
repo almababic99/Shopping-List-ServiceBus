@@ -57,3 +57,4 @@ C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-Lis
 C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
 C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json

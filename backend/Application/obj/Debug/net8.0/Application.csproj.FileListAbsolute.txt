@@ -45,3 +45,4 @@ C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-Lis
 C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\Application\obj\Debug\net8.0\refint\Application.dll
 C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\Application\obj\Debug\net8.0\Application.pdb
 C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\Application\obj\Debug\net8.0\Application.sourcelink.json

@@ -561,3 +561,4 @@ C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-Lis
 C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\backend\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
 C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\backend\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\backend\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\backend\obj\Debug\net8.0\API.sourcelink.json

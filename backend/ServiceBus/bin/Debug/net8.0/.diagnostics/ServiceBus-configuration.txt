@@ -1456,7 +1456,7 @@
     "ProcessorCount": 8,
     "Is64BitProcess": true,
     "CLRVersion": "8.0.12",
-    "WorkingSet": 44666880,
+    "WorkingSet": 44752896,
     "SystemPageSize": 4096,
     "HostName": "MM1K4C7",
     "UserName": "alma.babic",
@@ -1480,8 +1480,10 @@
     "MessageConventions": [
       "NServiceBus Marker Interfaces"
     ],
-    "NumberOfMessagesFoundAtStartup": 1,
+    "NumberOfMessagesFoundAtStartup": 3,
     "Messages": [
+      "Application.ShopperAddedMessage",
+      "Application.ItemAddedMessage",
       "Application.ShoppingListAddedMessage"
     ]
   },
@@ -1502,6 +1504,12 @@
       
     ],
     "MessageHandlers": {
+      "Application.ItemAddedMessage": [
+        "ServiceBus.ItemAddedHandler"
+      ],
+      "Application.ShopperAddedMessage": [
+        "ServiceBus.ShopperAddedHandler"
+      ],
       "Application.ShoppingListAddedMessage": [
         "ServiceBus.ShoppingListAddedHandler"
       ]

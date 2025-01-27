@@ -12,3 +12,17 @@
 2025-01-27 13:21:49.886 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-23'.
 2025-01-27 13:22:53.815 INFO  Logging to 'C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\ServiceBus\bin\Debug\net8.0\' with level Info
 2025-01-27 13:22:53.904 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-23'.
+2025-01-27 13:41:27.146 INFO  Logging to 'C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\ServiceBus\bin\Debug\net8.0\' with level Info
+2025-01-27 13:41:27.285 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-23'.
+2025-01-27 14:06:28.781 INFO  Logging to 'C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\ServiceBus\bin\Debug\net8.0\' with level Info
+2025-01-27 14:06:28.865 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-23'.
+2025-01-27 14:08:20.739 INFO  Logging to 'C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\ServiceBus\bin\Debug\net8.0\' with level Info
+2025-01-27 14:08:20.816 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-23'.
+2025-01-27 14:09:20.325 INFO  Logging to 'C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\ServiceBus\bin\Debug\net8.0\' with level Info
+2025-01-27 14:09:20.432 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-23'.
+2025-01-27 14:09:34.314 INFO  Logging to 'C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\ServiceBus\bin\Debug\net8.0\' with level Info
+2025-01-27 14:09:34.394 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-23'.
+2025-01-27 14:09:40.319 INFO  Logging to 'C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\ServiceBus\bin\Debug\net8.0\' with level Info
+2025-01-27 14:09:40.408 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-23'.
+2025-01-27 14:13:28.548 INFO  Logging to 'C:\Users\alma.babic\Desktop\Projects\Shopping List using ServiceBus\Shopping-List-ServiceBus\backend\ServiceBus\bin\Debug\net8.0\' with level Info
+2025-01-27 14:13:28.650 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-23'.
